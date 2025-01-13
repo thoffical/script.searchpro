@@ -1,0 +1,10 @@
+<addon id="script.searchpro" version="1.0.0" name="Search Pro Addon" provider-name="idealkooks">
+    <extension point="xbmc.python.script" library="main.py" />
+    <extension point="xbmc.addon.metadata">
+        <summary>A simple search add-on for Kodi</summary>
+        <description>This add-on allows users to search for items.</description>
+        <platform>all</platform>
+        <license>GPL v2.0</license>
+        <source>https://github.com/your/repo</source>
+    </extension>
+</addon>
