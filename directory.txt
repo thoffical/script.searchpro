@@ -1,0 +1,9 @@
+script.searchpro/
+│
+├── addon.xml
+├── main.py
+├── resources/
+│   └── lib/
+│       └── search.xml
+├── README.md
+└── LICENSE
