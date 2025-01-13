@@ -1,5 +1,8 @@
 # Search Pro Addon
 
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey)
+![Version](https://img.shields.io/badge/version-1.0.2-blue)
+
 A simple search add-on for Kodi that allows users to search for various items and access different functionalities.
 
 ## Features
@@ -35,13 +38,18 @@ Please ensure that your code adheres to the existing style and includes appropri
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Thanks to the Kodi community for their support and resources.
 - Inspired by various open-source projects and contributions.
 
+## Author and Organization
+
+- **Author**: [thoffical](https://github.com/thoffical)
+- **Organization**: [thcorporation](https://github.com/thcorporation)
+
 ## Contact
 
-For any questions or feedback, please reach out to an issue.
+For any questions or feedback, please reach out by opening an issue.
