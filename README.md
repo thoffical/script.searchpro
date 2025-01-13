@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey)
 ![Version](https://img.shields.io/badge/version-1.0.2-blue)
+![GitHub Account](https://img.shields.io/badge/GitHub-thoffical-lightgrey?style=flat-square&logo=github)
+![GitHub Org](https://img.shields.io/badge/Org-thcorporation-lightgrey?style=flat-square&logo=github)
 
 A simple search add-on for Kodi that allows users to search for various items and access different functionalities.
 
@@ -44,11 +46,6 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 
 - Thanks to the Kodi community for their support and resources.
 - Inspired by various open-source projects and contributions.
-
-## Author and Organization
-
-- **Author**: [thoffical](https://github.com/thoffical)
-- **Organization**: [thcorporation](https://github.com/thcorporation)
 
 ## Contact
 
